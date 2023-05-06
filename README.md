@@ -4,6 +4,7 @@ Está é uma API REST com spring boot usando o maven como gerenciador de depend�
 Dependencias: spring web, H2 e JPA.
 
 É uma API Rest bem simplificada que possui um User associado a um Department.
+
 Oque pode ser feito com esta API Rest.
 
 É possivel buscar por todos usuarios no banco de dados com o endpoint "/users" com o verbo http GET ou buscar um User especifico por ID com endpoint "/users/ID".
