@@ -1,5 +1,6 @@
 # API-REST
 Está é uma API REST com spring boot usando o maven como gerenciador de dependências.
+
 Dependencias: spring web, H2 e JPA.
 
 É uma API Rest bem simplificada que possui um User associado a um Department.
